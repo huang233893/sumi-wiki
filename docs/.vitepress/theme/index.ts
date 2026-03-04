@@ -23,3 +23,4 @@ export default {
   extends: Teek,
   Layout: TeekLayoutProvider,
 };
+
