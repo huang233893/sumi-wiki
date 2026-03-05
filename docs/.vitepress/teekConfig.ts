@@ -43,7 +43,7 @@ export const teekConfig = defineTeekConfig({
 
     return {
       type: "tip",
-      // title: "声明", // 可选
+      title: "声明", // 可选
       text: `<p>作者：${author}</p>
              <p style="margin-bottom: 0">链接：<a href="${decodeURIComponent(url)}" target="_blank">${decodeURIComponent(url)}</a></p>
              <p>版权：此文章版权归 ${author} 所有，如有转载，请注明出处!</p>
