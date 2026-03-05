@@ -105,6 +105,10 @@ export default defineConfig({
             text: "酥米导航小站",
             link: "https://my.sumi233.top",
           },
+          {
+            text: "检测小站",
+            link: "https://up.sumi233.top",
+          },
         ],
       },
       { text: "✨ 赞赏", link: "/personal/" },
