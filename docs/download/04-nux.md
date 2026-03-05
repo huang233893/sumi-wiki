@@ -1,5 +1,5 @@
 ---
-title: 四、类nux发行版镜像
+title: 四、类nix发行版镜像
 date: 2026-03-03 23:40:42
 permalink: /download/Anynux
 ---
