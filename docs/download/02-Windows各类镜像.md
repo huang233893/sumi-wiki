@@ -192,6 +192,3 @@ permalink: /download/win
 
 ### Windows 98 Second Edition (English)
 > ED2K电驴：ed2k://|file|en_win98_se.iso|652738560|9FAE6A31402499EEE72CB9CED4C7ABA5|/
-
-### Windows 98 Second Edition (English)
-> ED2K电驴：ed2k://|file|en_win98_se.iso|652738560|9FAE6A31402499EEE72CB9CED4C7ABA5|/
