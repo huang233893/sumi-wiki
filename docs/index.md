@@ -14,7 +14,7 @@ hero:
       link: /about/about
   image:
     src: /dclogo.png
-    alt: Teek
+    alt: sumisys
 
 features:
   - title: 免登录
