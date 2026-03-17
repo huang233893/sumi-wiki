@@ -89,9 +89,14 @@ export default defineConfig({
     nav: [
       { text: "首页", link: "/" },
       {
-        text: "下载链接",
+        text: "系统链接",
         link: "/download/sys",
         activeMatch: "/download/",
+      },
+      {
+        text: "链接聚合",
+        link: "/website/system",
+        activeMatch: "/website/",
       },
       { text: "关于本站", link: "/about/about", activeMatch: "/about/" },
       {

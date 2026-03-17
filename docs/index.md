@@ -7,11 +7,11 @@ hero:
   tagline: ✨一个轻量化、可查找的系统聚合下载站
   actions:
     - theme: brand
-      text: 下载链接
+      text: 系统链接
       link: /download/sys
     - theme: alt
-      text: 关于本站
-      link: /about/about
+      text: 链接聚合
+      link: /website/system
   image:
     src: /dclogo.png
     alt: sumisys
